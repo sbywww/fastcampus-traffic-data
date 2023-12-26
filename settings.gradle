@@ -1,0 +1,3 @@
+rootProject.name = 'fastcampus-traffic-data'
+include 'project1'
+
